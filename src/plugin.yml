@@ -1,0 +1,9 @@
+name: VoidTP
+main: net.drepic.voidtp.VoidTP
+version: 0.1
+author: Drepic26
+
+commands:
+  voidtp:
+    description: "Manage the plugin voidtp (reload)."
+    usage: "voidtp ... for: reload"
